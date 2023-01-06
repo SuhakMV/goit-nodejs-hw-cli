@@ -1,6 +1,5 @@
-# Получаем и выводим весь список контакстов в виде таблицы (console.table)
-node index.js --action="list"
-[("https://ibb.co/dj73P23")]
+
+![# Получаем и выводим весь список контакстов в виде таблицы (console.table) ](https://ibb.co/dj73P23)
 
 # Получаем контакт по id
 node index.js --action="get" --id=5
