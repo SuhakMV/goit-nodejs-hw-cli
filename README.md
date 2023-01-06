@@ -1,15 +1,13 @@
 
-<details>
 
-![1. Получаем и выводим весь список контакстов в виде таблицы][1][1]
-
-[1]: https://ibb.co/dj73P23
-
-</details>
+![scren shots](https://ibb.co/dj73P23)
 
 
 
-Получаем контакт по id
+
+
+
+# Получаем контакт по id
 node index.js --action="get" --id=5
 ["https://ibb.co/vdqk4fj"]
 
